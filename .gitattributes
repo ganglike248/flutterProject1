@@ -1,2 +1,4 @@
 * linguist-vendored
 *.dart linguist-vendored=false
+
+//리포지토리 언어 설정
